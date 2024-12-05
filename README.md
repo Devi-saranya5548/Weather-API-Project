@@ -95,17 +95,15 @@ This project is a GUI-based weather application built with Python's "tkinter" li
 
 Example:
 - Input:
-  - Latitude: 37.7749
-  - Longitude: -122.4194
+  - Latitude: 51.5
+  - Longitude: 0.12
 - Output:
-  Clear
-  20°C
+  Clouds
+  13°C
 
-  Max Temp: 25°C
-  Min Temp: 15°C
-  Pressure: 1013
-  Humidity: 50%
-  Wind Speed: 5 m/s
-  Sunrise: 06:45:32
-  Sunset: 19:30:15
+  Max Temp: 14°C
+  Min Temp: 12°C
+  Pressure: 1005
+  Humidity: 87
+  Wind Speed: 7.2
 
